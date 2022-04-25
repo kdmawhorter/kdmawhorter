@@ -23,7 +23,7 @@ Mid-career software engineer who likes to solve problems.<br>
         <td align="center" style="border: none; padding: 0px"><h4>Test</h4></td>
     </tr>    
 <tr style="border: none; padding:0px;">
-        <td align="center" width="90" style="border: none; padding: 0px"><img src="images/java.png" height="80"/></td>
+        <td align="center" width="90" style="border: none; padding: 0px"><img src="images/java.jpg" height="80"/></td>
         <td align="center" width="80" style="border: none; padding: 0px"><img src="images/ij.png" height="60"/></td>
         <td align="center" width="80" style="border: none; padding: 0px"><img src="images/ju5.webp" height="55"/></td>
     </tr>
