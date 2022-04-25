@@ -1,6 +1,6 @@
 # Kevin Mawhorter
 
----
+
 Mid-career software engineer who likes to solve problems.<br>
 * [Software Experience](#sw-experience)
 * [Professional Experience](#Professional-experience)
@@ -8,7 +8,7 @@ Mid-career software engineer who likes to solve problems.<br>
 * [Public Projects](#public-projects)
 * [Contact](#contact)
 
----
+
 ## SW Experience
 
 
@@ -62,7 +62,7 @@ Mid-career software engineer who likes to solve problems.<br>
 * Gradle
 * Git-->
 
----
+
 ## Professional Experience
 
 #### Software Developer - Wartsila, 2021
@@ -105,19 +105,19 @@ the globe
 recovering $1M+ in government assets
 * Injured during service, honorably separated due to disability as a resul
 
----
+
 ## Education
 
 University of California, Berkeley - Electrical Engineering and Computer Science - 2015 - 3.42<br>
 College of the Canyons - Mathematics A.S. - 2013 - 4.00
 
----
+
 
 ## Public Projects
 
 <a href="https://github.com/kdmawhorter/mit_ocw_6004">MIT OCW 6.004 Computation Machine Simulator</a>
 
----
+
 ## Contact
 
 Email: kdmawhorter@gmail.com
