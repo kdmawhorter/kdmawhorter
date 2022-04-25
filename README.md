@@ -7,7 +7,7 @@ Mid-career software engineer who likes to solve problems.<br>
 * [Education](#education)
 * [Public Projects](#public-projects)
 * [Contact](#contact)
-
+<br>
 
 ## SW Experience
 
@@ -49,19 +49,13 @@ Mid-career software engineer who likes to solve problems.<br>
 * SQL
 <br>
 
+
 #### Tooling/Tech Stack Experience
 * Matlab
 * Excel/VBA
 * Gradle
 * Git
 <br>
-
-#### Tooling/Tech Stack Experience
-* Matlab
-* Excel/VBA
-* Gradle
-* Git-->
-
 
 ## Professional Experience
 
