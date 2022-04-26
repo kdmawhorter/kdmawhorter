@@ -109,8 +109,8 @@ College of the Canyons - Mathematics A.S. - 2013 - 4.00
 
 ## Public Projects
 
-[MIT OCW 6.004 Computation Machine Simulator](https://github.com/kdmawhorter/mit_ocw_6004)
-[Coding Interview Problems](https://github.com/kdmawhorter/coding-interview-problems)
+* [MIT OCW 6.004 Computation Machine Simulator](https://github.com/kdmawhorter/mit_ocw_6004)
+* [Coding Interview Problems](https://github.com/kdmawhorter/coding-interview-problems)
 
 ## Contact
 
